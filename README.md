@@ -1,16 +1,19 @@
-## Hi there 👋
+#  Dofix – AC Repair Experts
 
-<!--
-**dofixtechnologies/dofixtechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to Dofix – Your Trusted AC Service Partner in Delhi NCR.
 
-Here are some ideas to get you started:
+## Our Services
+- AC Repair
+- AC Installation
+- Jet Pump Service @ ₹399
+- AC Gas Refilling
+- AC Deep Cleaning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Why Choose Us?
+✔ Same Day Service  
+✔ Affordable Pricing  
+✔ Expert Technicians  
+✔ Customer Satisfaction Focused  
+
+ Delhi NCR, India  
+ www.dofix.in
